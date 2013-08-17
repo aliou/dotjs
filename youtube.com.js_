@@ -1,8 +1,2 @@
-/*
- * youtube.com
- *
- * Hide the user login links and the related videos.
- */
- 
 $('#masthead-user-display').hide();
 $('#watch-sidebar').hide();

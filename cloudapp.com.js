@@ -1,7 +1,1 @@
-/*
- * cloudapp.com
- *
- * Redirects to the correct website.
- */
- 
- window.location = 'http://my.cl.ly'
+window.location = 'http://my.cl.ly'

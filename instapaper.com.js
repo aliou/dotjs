@@ -1,2 +1,3 @@
-if ($('.tableViewCell').length > 0)
-  document.title = '[' + $('.tableViewCell').length + '] ' + document.title;
+var length = $('.tableViewCell').length;
+if (length > 0)
+  document.title = '[' + length + '] ' + document.title;

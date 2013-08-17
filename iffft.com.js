@@ -1,2 +1,1 @@
-
- window.location = 'htttp://ifttt.com'
+window.location = 'htttp://ifttt.com'
